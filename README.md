@@ -5,6 +5,7 @@ Contributors:
 Justin Huff
 fsrt
 Brian Spranger
+copyninja
 
 Install: 
 Copy/paste the Device Handler into your Smart Things IDE, then publish.
