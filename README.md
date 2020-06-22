@@ -8,8 +8,8 @@ Brian Spranger
 copyninja
 
 Install: 
-Copy/paste the Device Handler into your Smart Things IDE, then publish.
-Copy/paste the Smart App into your Smart Things IDE, then add a copy of the Smart App to your installation via your phone.
+Copy/paste the Device Handler into your Hubitat IDE, then publish.
+Copy/paste the Smart App into your Hubitat IDE, then add a copy of the Smart App to your installation and login with your rheem acct creds.
 
 
 TODO:

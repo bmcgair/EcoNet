@@ -1,10 +1,11 @@
 /**
  *  Rheem EcoNet (Connect)
  *
- *  Contributors:
- *      Largely based on work by Justin Huff. Moved to my namespace to avoid confusion after some modification.
- *      https://github.com/copy-ninja/SmartThings_RheemEcoNet
- *
+ * Contributors:
+ * Justin Huff
+ * fsrt
+ * Brian Spranger
+ * copyninja
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:

@@ -2,7 +2,10 @@
  *  Rheem EcoNet (Connect)
  *
  *  Contributors:
- *      Largely based on work by Justin Huff. Moved to my namespace to avoid confusion after some modification.
+ * Justin Huff
+ * fsrt
+ * Brian Spranger
+ * copyninja
  *
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
